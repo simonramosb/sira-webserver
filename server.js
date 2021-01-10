@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express();
 const hbs = require('hbs');
-const puerto = 80;
+const puerto = 3000;
 
 app.use( express.static( __dirname + '/views'));
 
