@@ -6,13 +6,13 @@ La función de este webserver es la de levantar rápidamente un html (proximamen
 Puede ser util para desplegarlo en servidores recién configurados y así testear el correcto funcionamiento del mismo. Para desplegarlo en una VPS es necesario usar un Reverse proxy.
 
 
-# Dependencias / Dependencies
+# Dependencias
 
 - Express
 - HBS
 
 
-# Instalación / Installation
+# Instalación
 Solo requiere los siguientes comandos
 ```
   npm i
